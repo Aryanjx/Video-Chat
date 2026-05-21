@@ -196,12 +196,4 @@ Free TURN options: [Metered](https://www.metered.ca/tools/openrelay/), [Xirsys](
 
 ---
 
-## 🤝 Contributing
 
-Feel free to open issues and submit PRs!
-
----
-
-## 📄 License
-
-MIT
