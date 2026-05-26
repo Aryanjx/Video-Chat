@@ -1,4 +1,4 @@
-# 📹 ZoomClone — MERN Stack Video Conferencing App
+# 📹 VidChat — MERN Stack Video Conferencing App
 
 A full-featured Zoom-like video conferencing application built with the MERN stack (MongoDB, Express, React, Node.js) and WebRTC for real-time peer-to-peer video/audio.
 
